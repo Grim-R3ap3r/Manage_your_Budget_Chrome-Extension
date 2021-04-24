@@ -11,7 +11,7 @@ step4:click on load package
 step5:you are good to go!
 
 
-Link to the documentation google chrome developers site:
+Link to the documentation of google chrome developers site:
 
 https://developer.chrome.com/docs/extensions/
 
